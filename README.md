@@ -14,5 +14,5 @@ This project predicts used car prices using machine learning. It covers data pre
 
 ## How to run
 1. Clone the repository
-2. Open notebook in jupyter or VScodE
+2. Open notebook in jupyter or VScode
 3. Run the cells from top to botom
