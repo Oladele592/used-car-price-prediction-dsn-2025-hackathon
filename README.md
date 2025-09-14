@@ -1,4 +1,4 @@
-Used Car Price Prediction
+## DSN AI Hakathon 2025-Used Car Price Prediction
 
 This project predicts used car prices using machine learning. It covers data preprocessing, feature engineering, exploratory data analysis, and model training with LightGBM and scikit-learn. The notebook outputs predictions for a test set and generates a CSV file for submission.
 
@@ -12,7 +12,7 @@ This project predicts used car prices using machine learning. It covers data pre
 - Python 3.x
 - pandas, numpy, scikit-learn, lightgbm, matplotlib, seaborn
 
-## Usage
-1. Place your data in the `archive/` folder.
-2. Run `used_car_price_prediction.ipynb`.
-3. Find predictions in `SubmissionNN.csv`.
+## How to run
+1. Clone the repository
+2. Open notebook in jupyter or VScodE
+3. Run the cells from top to botom
