@@ -11,6 +11,7 @@ This project predicts used car prices using machine learning. It covers data pre
 ## Requirements
 - Python 3.x
 - pandas, numpy, scikit-learn, lightgbm, matplotlib, seaborn
+- jupyter
 
 ## How to run
 1. Clone the repository
