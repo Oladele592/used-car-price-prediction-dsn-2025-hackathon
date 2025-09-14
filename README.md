@@ -1,4 +1,4 @@
-#used Car Price Prediction
+**used Car Price Prediction**
 
 This project predicts used car prices using machine learning. It covers data preprocessing, feature engineering, exploratory data analysis, and model training with LightGBM and scikit-learn. The notebook outputs predictions for a test set and generates a CSV file for submission.
 
